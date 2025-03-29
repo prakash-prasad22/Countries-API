@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import '../country.css'
 import { Link, useLocation, useParams } from 'react-router-dom'
-import CountryDetailsShimmer from './COuntryDetailsShimmer'
+import CountryDetailsShimmer from './CountryDetailsShimmer'
 import { useTheme } from '../hooks/useTheme'
 
 
